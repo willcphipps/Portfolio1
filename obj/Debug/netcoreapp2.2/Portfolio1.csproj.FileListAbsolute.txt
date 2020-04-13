@@ -12,3 +12,13 @@
 /Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.RazorTargetAssemblyInfo.cache
 /Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.dll
 /Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.pdb
+/Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/Portfolio1/bin/Debug/netcoreapp2.2/Portfolio1.Views.dll
+/Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/Portfolio1/bin/Debug/netcoreapp2.2/Portfolio1.Views.pdb
+/Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.TagHelpers.input.cache
+/Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.TagHelpers.output.cache
+/Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.RazorCoreGenerate.cache
+/Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.RazorTargetAssemblyInfo.cs
+/Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.Views.pdb
+/Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.csproj.CopyComplete
+/Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/Portfolio1/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/Portfolio1/obj/Debug/netcoreapp2.2/Razor/Views/Home/Contact.g.cshtml.cs

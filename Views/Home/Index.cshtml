@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>here are some <span style="color:red;">FANTASTIC</span> foods</h1>
+        
+    @{  string[] foods = new string[]{
+        "apple",
+        "burrito",
+        "clams",
+        "grapefruit",
+        "chai-tea",
+        "dragon fruit",
+        "oranges"
+        };
+        foreach (string food in foods){
+            <p>@food</p>
+        
+        @if(food.StartsWith("c")){
+            <p style="color:red">@food</p>
+
+        }
+        }
+        }
+</body>
+</html>

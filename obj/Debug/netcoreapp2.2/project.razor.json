@@ -2959,6 +2959,17 @@
     "CSharpLanguageVersion": 703
   },
   "RootNamespace": "Portfolio1",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "/Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/Portfolio1/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/Portfolio1/Views/Home/Contact.cshtml",
+      "TargetPath": "Views\\Home\\Contact.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }

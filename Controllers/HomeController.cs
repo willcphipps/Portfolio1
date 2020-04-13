@@ -1,10 +1,11 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Http;
 
 namespace Portfolio1.Controllers {
     public class HomeController : Controller {
         [HttpGet ("")]
-        public string index () {
-            return "this is my index";
+        public IActionResult Index () {
+            return View("Index");
         }
 
         [HttpGet ("projects/{username}/{firstname}")]
@@ -14,8 +15,8 @@ namespace Portfolio1.Controllers {
         }
 
         [HttpGet ("contact")]
-        public string contact () {
-            return "this is my contact";
+        public IActionResult contactphone () {
+            return View("Contact");
         }
     }
 }
