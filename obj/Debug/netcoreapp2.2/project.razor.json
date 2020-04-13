@@ -2969,6 +2969,11 @@
       "FilePath": "/Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/Portfolio1/Views/Home/Contact.cshtml",
       "TargetPath": "Views\\Home\\Contact.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/Portfolio1/Views/Home/Projects.cshtml",
+      "TargetPath": "Views\\Home\\Projects.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"

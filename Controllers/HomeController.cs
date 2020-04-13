@@ -1,5 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Http;
+using System;
+using System.Collections.Generic;
 
 namespace Portfolio1.Controllers {
     public class HomeController : Controller {
@@ -8,10 +10,11 @@ namespace Portfolio1.Controllers {
             return View("Index");
         }
 
-        [HttpGet ("projects/{username}/{firstname}")]
-        public string projects (string username, string firstname) {
-            
-            return $"this is my projects, and my username = {username}, my firstname is {firstname}";
+
+        [HttpGet ("projects")]
+        public IActionResult projects () {
+    
+            return View("Projects");
         }
 
         [HttpGet ("contact")]

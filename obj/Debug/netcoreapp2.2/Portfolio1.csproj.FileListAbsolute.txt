@@ -22,3 +22,4 @@
 /Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.csproj.CopyComplete
 /Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/Portfolio1/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
 /Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/Portfolio1/obj/Debug/netcoreapp2.2/Razor/Views/Home/Contact.g.cshtml.cs
+/Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/Portfolio1/obj/Debug/netcoreapp2.2/Razor/Views/Home/Projects.g.cshtml.cs

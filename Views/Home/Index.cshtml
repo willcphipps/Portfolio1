@@ -1,30 +1,60 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/css/style.css" />
     <title>Document</title>
 </head>
-<body>
-    <h1>here are some <span style="color:red;">FANTASTIC</span> foods</h1>
-        
-    @{  string[] foods = new string[]{
-        "apple",
-        "burrito",
-        "clams",
-        "grapefruit",
-        "chai-tea",
-        "dragon fruit",
-        "oranges"
-        };
-        foreach (string food in foods){
-            <p>@food</p>
-        
-        @if(food.StartsWith("c")){
-            <p style="color:red">@food</p>
 
-        }
-        }
-        }
+<body class ="bg-secondary">
+    <div id="wrapper" class=" container col-lg-12">
+        <nav class="navbar navbar-expand-lg navbar-light bg-dark">
+            <a class="navbar-brand" href="#">Portfolio</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/projects">Projects</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/contact">Contact</a>
+                    </li>
+                </ul>
+
+            </div>
+        </nav>
+        
+    </div>
+
+        <div class="d-flex flex-column text-center">
+            <div class="p-4 mt-5">
+                <h1> About me</h1>
+            </div>
+           <div class="d-flex justify-content-center">
+                <div class="p-5">
+                    <p>
+                        <img src="https://image.freepik.com/free-vector/awesome-ninja-logo_149374-108.jpg" width="450px" alt="">
+                    </p>
+                    <p>Ninja Coder</p>
+                    <p>The highest class of ninja</p>
+                </div>
+                <div class="p-5 text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, voluptas sint unde delectus, quos quia, odit architecto ratione veritatis ullam assumenda natus. Corrupti facere ab qui, totam iure, nisi autem, nesciunt esse exercitationem delectus temporibus eveniet alias maiores reiciendis dicta. Eligendi eos nam dolorem sit doloremque. Deserunt recusandae distinctio ratione.</div>
+            </div>
+        </div>
+        
+
+
 </body>
+
 </html>

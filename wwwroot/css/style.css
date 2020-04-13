@@ -1,0 +1,22 @@
+#projects{
+    border: solid black;
+    border-style: outset;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    padding: 5px;
+    max-height: 500px;
+    overflow: scroll;
+
+}
+#lorem{
+    border-bottom-color: black;
+    border-bottom-style: double;
+}
+#box{
+    max-width: "500px";
+    margin: 10%;
+}
+/* #btn{
+    width: 25px;
+} */
